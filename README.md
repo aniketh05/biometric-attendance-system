@@ -22,6 +22,7 @@ The project showcases the application of biometrics beyond security to automate 
 ![poster.png](poster.png)
 
 *UI*
+
 ![Image2.PNG](Image2.PNG)
 
 *Fingerprint Module*
